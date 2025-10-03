@@ -81,6 +81,8 @@ The system analyzes factors such as **price, promotions, product details, and cu
 ## 🖼️ Visuals
 
 - 🔹 **System Architecture**
+ ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/b9d79f17390f9cef0c1f1ce29c19c02c17eb3b90/System%20Architecture/LR.png)
+ ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/b9d79f17390f9cef0c1f1ce29c19c02c17eb3b90/System%20Architecture/RF.png)
 - 🔹 **Model Results & Graphs**
 - 🔹 **Insights**
 ---
