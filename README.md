@@ -80,18 +80,24 @@ The system analyzes factors such as **price, promotions, product details, and cu
 
 ## 🖼️ Visuals
 
-- 🔹 **System Architecture**
+ 🔹 **System Architecture**
+
  ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/b9d79f17390f9cef0c1f1ce29c19c02c17eb3b90/System%20Architecture/LR.png)
  ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/b9d79f17390f9cef0c1f1ce29c19c02c17eb3b90/System%20Architecture/RF.png)
 
-- 🔹 **Model Results & Graphs**
+ 🔹 **Model Results & Graphs**
+
 ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/731e9485a5e71634350b367c617af6fd8d3dc7f9/Results/Actual%20vs%20Predicted(counts)-RF%20classifier.png)
 ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/731e9485a5e71634350b367c617af6fd8d3dc7f9/Results/Cross-Validation%20accuracy%20per%20fold.png)
 ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/731e9485a5e71634350b367c617af6fd8d3dc7f9/Results/LR%20and%20RF%20Confusion%20Mstrix.png)
 ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/731e9485a5e71634350b367c617af6fd8d3dc7f9/Results/Model%20accuracy%20comparison.png)
 ![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/731e9485a5e71634350b367c617af6fd8d3dc7f9/Results/RF%20regressor-Actual%20vs%20Predicted.png)
 
-- 🔹 **Insights**
+ 🔹 **Insights**
+
+![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/115731f52e2ac2b0ab69fcdeba73036a13e28fb2/Results/Top%2010%20RF%20feature%20importances.png)
+![image alt](https://github.com/MangalMurmu17/Dairy-Sales-Forecasting-Analysis-between-LR-and-RF-algorithm-/blob/115731f52e2ac2b0ab69fcdeba73036a13e28fb2/Results/Forecasting%20Dairy%20Sales(RF%20regressor).png)
+
 ---
 
 ## 🛠️ Applications  
